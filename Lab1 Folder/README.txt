@@ -1,0 +1,2 @@
+1. An arm template deploys and manages resources from azure automatically by using reusable config files and in this example, template.json defines what resources to create and parameters.json supplies the values like sizes and locations - They tell azure what to deploy and with what settings.
+2. It was exported 1/23/2026 (yesterday)
