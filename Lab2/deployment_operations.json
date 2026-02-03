@@ -1,0 +1,82 @@
+[
+  {
+    "id": "/subscriptions/36a076c6-1f33-4bb7-bb6e-281ae50ac25e/resourceGroups/RG-LAB2/providers/Microsoft.Resources/deployments/Microsoft.Template-20260201122450/operations/820166C93A11C3D3",
+    "operationId": "820166C93A11C3D3",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2026-02-01T17:25:09.7259271Z",
+      "duration": "PT19.2170911S",
+      "trackingId": "1e7ad5bc-f73e-4123-ba7d-0275c58191dc",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/36a076c6-1f33-4bb7-bb6e-281ae50ac25e/resourceGroups/RG-LAB2/providers/Microsoft.Compute/virtualMachines/WEB1",
+        "resourceType": "Microsoft.Compute/virtualMachines",
+        "resourceName": "WEB1"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/36a076c6-1f33-4bb7-bb6e-281ae50ac25e/resourceGroups/RG-LAB2/providers/Microsoft.Resources/deployments/Microsoft.Template-20260201122450/operations/0E885B7FDD6B3A99",
+    "operationId": "0E885B7FDD6B3A99",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2026-02-01T17:25:09.7259271Z",
+      "duration": "PT4.2214679S",
+      "trackingId": "64ae9db8-052a-400b-8fa4-b6b035f00a62",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/36a076c6-1f33-4bb7-bb6e-281ae50ac25e/resourceGroups/RG-LAB2/providers/Microsoft.Network/networkInterfaces/web1438_z2",
+        "resourceType": "Microsoft.Network/networkInterfaces",
+        "resourceName": "web1438_z2"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/36a076c6-1f33-4bb7-bb6e-281ae50ac25e/resourceGroups/RG-LAB2/providers/Microsoft.Resources/deployments/Microsoft.Template-20260201122450/operations/7CF11D9D0BF78362",
+    "operationId": "7CF11D9D0BF78362",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2026-02-01T17:24:51.7602373Z",
+      "duration": "PT17.378969S",
+      "trackingId": "0ea3eb8b-25ae-4c01-ba2e-46d131902178",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/36a076c6-1f33-4bb7-bb6e-281ae50ac25e/resourceGroups/RG-LAB2/providers/Microsoft.Network/virtualNetworks/VNET-LAB1",
+        "resourceType": "Microsoft.Network/virtualNetworks",
+        "resourceName": "VNET-LAB1"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/36a076c6-1f33-4bb7-bb6e-281ae50ac25e/resourceGroups/RG-LAB2/providers/Microsoft.Resources/deployments/Microsoft.Template-20260201122450/operations/D944474E8E0A4E62",
+    "operationId": "D944474E8E0A4E62",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2026-02-01T17:24:51.7602373Z",
+      "duration": "PT1.0183291S",
+      "trackingId": "3e39d52c-7bb5-4a03-93f2-9180dc4a3da1",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/36a076c6-1f33-4bb7-bb6e-281ae50ac25e/resourceGroups/RG-LAB2/providers/Microsoft.Network/networkSecurityGroups/NSG-WEB",
+        "resourceType": "Microsoft.Network/networkSecurityGroups",
+        "resourceName": "NSG-WEB"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/36a076c6-1f33-4bb7-bb6e-281ae50ac25e/resourceGroups/RG-LAB2/providers/Microsoft.Resources/deployments/Microsoft.Template-20260201122450/operations/08584316401939922870",
+    "operationId": "08584316401939922870",
+    "properties": {
+      "provisioningOperation": "EvaluateDeploymentOutput",
+      "provisioningState": "Succeeded",
+      "timestamp": "2026-02-01T17:25:09.7259271Z",
+      "duration": "PT20.26403S",
+      "trackingId": "22b146a5-e156-4a3d-9b75-f2282da7cb47",
+      "statusCode": "OK"
+    }
+  }
+]
